@@ -5,7 +5,7 @@ Detects common data anomalies in trading databases:
 duplicate trades, sequence gaps, settlement failures,
 and latency anomalies.
 
-![Diagnostic Output](![img_7.png](img_7.png))
+![Diagnostic Output](img_7.png)
 
 ## Business Context
 
@@ -73,10 +73,10 @@ Each function is a standalone runbook entry.
 
 ## Screenshots 
 
-![Full diagnostic output](![img_5.png](img_5.png))
-![Duplicate detection](![img_4.png](img_4.png))
-![Settlement failures](![img_6.png](img_6.png))
-![Latency anomaly](![img_3.png](img_3.png))
+![Full diagnostic output](img_5.png)
+![Duplicate detection](img_4.png)
+![Settlement failures](img_6.png)
+![Latency anomaly](img_3.png)
 
 ## Possible Improvements
 
