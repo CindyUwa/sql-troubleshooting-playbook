@@ -71,7 +71,7 @@ The diagnostic value comes from detecting known anomalies.
 Queries can be imported and reused independently.
 Each function is a standalone runbook entry.
 
-## Screenshots
+## Screenshots 
 
 ![Full diagnostic output](![img_5.png](img_5.png))
 ![Duplicate detection](![img_4.png](img_4.png))
